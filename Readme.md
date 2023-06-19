@@ -1,4 +1,4 @@
-# Aplicação de cadastro de clientes e endereços (Backend)
+# Aplicação para cadastro de clientes e endereços (Backend)
 Descrição de javafx para cadastro de cliente
 ## Tecnologia
 * Java 17
