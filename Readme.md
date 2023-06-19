@@ -8,7 +8,7 @@ Aplicação de JavaFX para cadastro de clientes
 * IntelliJ
 
 ## Instalação
-Para iniciar a aplicação precisa somente executar o projeto
+Para iniciar a aplicação precisara do DBeaver com o nome da base de dados de "cadastro", e executar o script presente na pasta do projeto.
 
 
 ## Aplicação
