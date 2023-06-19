@@ -1,14 +1,15 @@
 # Aplicação para cadastro de clientes e endereços (Backend)
-Descrição de javafx para cadastro de cliente
+Aplicação de JavaFX para cadastro de clientes
 ## Tecnologia
 * Java 17
-* Java Fx
+* Java FX
 * PostgresSQL
 * DBeaver
+* IntelliJ
 
 ## Instalação
-Para iniciar a aplicação precisa ter o seguinte software instalado:
-* IntelliJ
+Para iniciar a aplicação precisa somente executar o projeto
+
 
 ## Aplicação
 
